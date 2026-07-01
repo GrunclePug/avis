@@ -1,0 +1,15 @@
+# Compiled binaries
+/avis
+
+# OLS (Odin Language Server) cache files
+.ols/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor configurations & temp files
+.vscode/
+.idea/
+*.swp
+*~

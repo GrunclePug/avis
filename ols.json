@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DanielKeep/ols/master/misc/ols.schema.json",
+    "checker_arguments": "-vet -strict-style",
+    "enable_procedure_context": true,
+    "enable_snippets": true,
+    "enable_hover": true,
+    "enable_document_symbols": true
+}
